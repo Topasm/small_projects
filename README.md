@@ -14,6 +14,11 @@ flasing -.bin file to target ESP8266 MCU via usb connector (Node mcu)
 
 
 ## Simple Shell program in c
+![화면 캡처 2022-10-21 111528](https://user-images.githubusercontent.com/24962064/197095549-8a20b673-ae67-4993-b08a-b95176cc4138.png)
+
 
 ### video
 https://youtu.be/3xH2o8fDFrc
+
+simple shellp program runs on linux. Has some custom commands (help, quit ...) .
+Arrow up/down to access command history. Also can backspace or edit command too.
