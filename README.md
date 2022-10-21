@@ -15,3 +15,5 @@ flasing -.bin file to target ESP8266 MCU via usb connector (Node mcu)
 
 ## Simple Shell program in c
 
+### video
+https://youtu.be/3xH2o8fDFrc
